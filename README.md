@@ -7,6 +7,5 @@ Tailwind CSS
 Vite
 
 
-วิธีรัน
-
+### วิธีรัน
 npm run dev
