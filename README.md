@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -71,3 +72,16 @@ export default defineConfig([
   },
 ])
 ```
+=======
+# Frontend-Dormly
+
+React TypeScript (.tsx)
+
+Tailwind CSS
+
+Vite
+
+
+### วิธีรัน
+npm run dev
+>>>>>>> 46e5005a0e0951dcba63a9af914842ad36ddbe6a
